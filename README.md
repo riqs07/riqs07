@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Terriq. I am a self-taught developer. 
+My name is Terriq. I am a self-taught developer. I code in Javascript.
 
 
 
