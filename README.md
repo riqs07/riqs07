@@ -7,5 +7,5 @@ I am a software developer with experience working with various JavaScript techno
 - 🔭 I’m currently working on my spotify Clone
 - 🌱 I’m currently learning NodeJS
 
-- ⚡ Fun fact: I can freestyle for 20 minutes straight!
+- ⚡ Fun fact: I can freestyle for 20 minutes straight!🔥🔥
 
