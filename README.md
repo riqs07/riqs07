@@ -10,5 +10,7 @@ I am a software developer with experience working with various JavaScript techno
 - 🔭 I’m currently working on a pool monitoring application
 - 🌱 I’m currently learning NodeJS.
 
-- ⚡ Fun fact: I can freestyle for 20 minutes straight!🔥🔥
+- ⚡ Fun fact: I can freestyle for 20 minutes straight!🔥🎤
+- ⚡ Fun fact: My fastest 50m Freestyle time was 46s!🏊🏾‍♂️🏊🏾‍♂️
+
 
