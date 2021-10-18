@@ -14,3 +14,4 @@ I am a software developer with experience working with various JavaScript techno
 - ⚡ Fun fact: My fastest 50m Freestyle time was 46s!🏊🏾‍♂️🏊🏾‍♂️
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riqs07)](https://github.com/anuraghazra/github-readme-stats)
