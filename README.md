@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 ### Coding is my superpower 🦸🏾‍♂️🧙🏾‍♂️
 Code got us to the moon. Code will get us to mars. Code revolutionized what it means to be human. From CGI in the Avengers to 3D scanning at the dentists' office. Software is all around us. It has, and will continue to get us unbelievable places. I want to be a part of that; I want to help change the world through to the creation of ethical software. No unnecessary data mining, No dark patterns and no addictive feedback loops.  
